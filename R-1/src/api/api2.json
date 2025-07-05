@@ -1,0 +1,82 @@
+[
+  {
+    "id": "news-1",
+    "title": "Avengers 5 Officially Announced for 2026",
+    "summary": "Marvel Studios has confirmed the release of Avengers 5, teasing an all-new villain and multiverse threats.",
+    "image_url": "https://images.thedirect.com/media/article_med/avengers-5-filming.jpg",
+    "published_at": "2025-06-25",
+    "source": "Marvel Studios",
+    "category": "Hollywood",
+    "read_more_url": "https://example.com/news/avengers-5-announced"
+  },
+  {
+    "id": "news-2",
+    "title": "SRK’s Next Film Goes Sci-Fi: Title Revealed",
+    "summary": "Shah Rukh Khan’s upcoming sci-fi film 'TimeLoop' is expected to release in early 2026, with top VFX studios onboard.",
+    "image_url": "https://cdn.wionews.com/sites/default/files/2023/02/22/334134-pathaan.png",
+    "published_at": "2025-06-24",
+    "source": "Bollywood Hungama",
+    "category": "Bollywood",
+    "read_more_url": "https://example.com/news/srk-timeloop-reveal"
+  },
+  {
+    "id": "news-3",
+    "title": "Pushpa 2 Trailer Breaks YouTube Records",
+    "summary": "Allu Arjun’s Pushpa 2 trailer hits 50 million views in 24 hours, making it the most-watched Tollywood trailer ever.",
+    "image_url": "https://i.ytimg.com/vi/fW5Pbb8cCkE/maxresdefault.jpg",
+    "published_at": "2025-06-22",
+    "source": "Telugu Buzz",
+    "category": "Tollywood",
+    "read_more_url": "https://example.com/news/pushpa-2-trailer-record"
+  },
+  {
+    "id": "news-4",
+    "title": "Oscar 2025: Nomination Predictions Start Rolling In",
+    "summary": "Film critics begin speculating early Oscar contenders, with some indie films gaining surprise traction.",
+    "image_url": "https://tse1.mm.bing.net/th/id/OIP.Ebf4lrDCwxWV3qXJUUHiIgHaEK?rs=1&pid=ImgDetMain",
+    "published_at": "2025-06-21",
+    "source": "Hollywood Times",
+    "category": "Awards",
+    "read_more_url": "https://example.com/news/oscar-2025-predictions"
+  },
+  {
+    "id": "news-5",
+    "title": "New Batman Actor Announced for DC Reboot",
+    "summary": "Warner Bros. confirms a new face under the cowl as part of the DC Universe reboot set for 2026.",
+    "image_url": "https://tse2.mm.bing.net/th/id/OIP.MKhdVRh3mMI7sa236Z3pPwHaEK?rs=1&pid=ImgDetMain",
+    "published_at": "2025-06-20",
+    "source": "DC Universe",
+    "category": "Hollywood",
+    "read_more_url": "https://example.com/news/new-batman-revealed"
+  },
+  {
+    "id": "news-6",
+    "title": "Kantara 2 Set to Explore Forest Mysticism",
+    "summary": "Rishab Shetty's Kantara sequel will dive deeper into cultural folklore and divine legends rooted in rural India.",
+    "image_url": "https://www.famousbollywood.com/wp-content/uploads/2023/08/kantara2.webp",
+    "published_at": "2025-06-19",
+    "source": "Indian Express",
+    "category": "Sandalwood",
+    "read_more_url": "https://example.com/news/kantara-2-announcement"
+  },
+  {
+    "id": "news-7",
+    "title": "Mission: Impossible 8 Resumes Shooting in Norway",
+    "summary": "Tom Cruise is back with high-flying stunts as Mission: Impossible 8 resumes filming in extreme mountain locations.",
+    "image_url": "https://i.ytimg.com/vi/YHmE_jtUq8s/maxresdefault.jpg",
+    "published_at": "2025-06-18",
+    "source": "Variety",
+    "category": "Hollywood",
+    "read_more_url": "https://example.com/news/mi8-filming-update"
+  },
+  {
+    "id": "news-8",
+    "title": "Dunki to Premiere on OTT Next Month",
+    "summary": "Rajkumar Hirani’s film 'Dunki' starring Shah Rukh Khan is all set to stream on OTT after a successful theatrical run.",
+    "image_url": "https://img.indiaforums.com/article/1280x720/20/5234-shah-rukh-khans-dunki-makes-its-ott-debut-streaming-details-inside.jpg",
+    "published_at": "2025-06-17",
+    "source": "Bollywood Life",
+    "category": "Bollywood",
+    "read_more_url": "https://example.com/news/dunki-ott-release"
+  }
+]
