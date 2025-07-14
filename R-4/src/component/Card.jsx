@@ -4,6 +4,7 @@ import { useNavigate } from 'react-router-dom';
 
 const Card = ({ setSelectPokemon }) => {
     const save = "saveCard"
+    // const [search, setSearch] = useState("");
     const [pokemon, setPokemon] = useState([]);
     const [totalCount, setTotalCount] = useState(0);
     const [cardPage] = useState(5);
@@ -17,6 +18,10 @@ const Card = ({ setSelectPokemon }) => {
     useEffect(() => {
         localStorage.setItem(save, JSON.stringify(currentPage))
     }, [currentPage])
+
+    // const searchPokemon = pokemon.filter((curCard) =>
+    //     curCard.name.toLowerCase().includes(search.toLowerCase())
+    // );
 
     const fetchPokemonCard = async (API2) => {
         try {
@@ -65,6 +70,7 @@ const Card = ({ setSelectPokemon }) => {
 
     return (
         <div className="p-6">
+            {/* <input className='m-5 border-white text-white w-50 p-2 rounded-4xl border-4' type="text" placeholder='name' value={search} onChange={(e) => setSearch(e.target.value)} /> */}
             <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-6">
                 {pokemon.map((PD) => (
                     <li key={PD?.name}>
